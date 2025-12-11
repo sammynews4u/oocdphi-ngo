@@ -1,0 +1,7 @@
+{
+  "name": "LifeGuard NGO",
+  "description": "A comprehensive platform for a Chronic Disease Prevention NGO featuring education, event management, donations, and AI support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
